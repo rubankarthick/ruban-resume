@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+.form{
+    border: 1px solid white;
+    box-shadow: 0px 5px 20px 10px #888888;
+    margin: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.form .header{
+    padding-top: 1%;
+    background-color: #12233bea;
+    border: 1px solid #12233bea;
+    border-radius: 10px;
+    margin: 2%;
+
+}
+
+.form .header h1{
+    color: rgb(255, 255, 255);
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.form .header h2{
+    color: #00fffb;
+    margin-left: 15px;
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.form .header p{
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    margin-top: 0;
+    margin-left: 15px;
+}
+
+.form .header h1 span{
+    float: right;
+    margin-right: 15px;
+    font-size: 12px;
+}
+
+img{
+    width: 20%;
+    float: right;
+    margin-top: 12%;
+    margin-right: 15%;
+    border: 5px solid white;
+    border-radius: 50%;
+}
+
+.form .details h1{
+    font-size: 20px;
+    padding-left: 40px;
+    color: #12233bea;
+}
+
+.form .details h2{
+    font-size: 15px;
+    padding-left: 40px;
+    color: black;
+    font-weight: 700;
+    margin: 0;
+}
+
+.form .details h3{
+    font-size: 13px;
+    padding-left: 40px;
+    color: black;
+    margin: 0;
+}
+
+.form .details p{
+    font-size: 10px;
+    padding-left: 40px;
+    color: black;
+}
+
+
+.skills{
+    float: right;
+    margin-right: 5%;
+}
+
+
+.fa-solid, .fa-brands{
+    color:#00fffb ;
+}
